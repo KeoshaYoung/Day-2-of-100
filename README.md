@@ -1,6 +1,8 @@
 # Day-2-of-100
 👉 Day 2 Challenge
+
 Getting to Know You Project
+
 You can continue to use this same repl for your project. Just make sure you delete any previous code from our practice session.
 
 Write code that does the following:
